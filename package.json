@@ -1,0 +1,11 @@
+{
+  "name": "temp",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^13.7.0",
+    "tslib": "^1.10.0",
+    "typescript": "^3.7.5"
+  }
+}
